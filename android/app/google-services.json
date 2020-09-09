@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531531588723",
+    "firebase_url": "https://socialshare-b3144.firebaseio.com",
+    "project_id": "socialshare-b3144",
+    "storage_bucket": "socialshare-b3144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531531588723:android:a43da0cd424e00b448f606",
+        "android_client_info": {
+          "package_name": "com.nticservice.socialshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531531588723-tfi6pn0vs04jm3fb8tatlvar9sl8b18u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKB84UovUD_gvchxEjekUWc10yWSvv510"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531531588723-tfi6pn0vs04jm3fb8tatlvar9sl8b18u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
